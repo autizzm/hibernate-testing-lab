@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <emplName>Мирон</emplName>
+    <emplDob>2004-01-01</emplDob>
+    <emplSalary>1200</emplSalary>
+</employee>
